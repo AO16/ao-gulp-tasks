@@ -6,6 +6,6 @@ var path = require('path');
 var gulpRequireTasks = require('gulp-require-tasks');
 
 gulpRequireTasks({
-  path: path.join(__dirname, '/node_modules/gulp-config/tasks'),
+  path: path.join(__dirname, '/node_modules/ao-gulp-tasks/tasks'),
   passGulp: true
 });
