@@ -23,7 +23,9 @@
     "babel-preset-es2015": "^6.9.0",
     "eslint": "^2.10.2",
     "eslint-config-zipscene": "^0.1.8",
+    "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
+    "gulp-require-tasks": "^1.0.3",
     "gulp-sass": "^2.3.1"
   }
 }
