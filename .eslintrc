@@ -1,0 +1,14 @@
+{
+  "extends": "zipscene/environments/browser",
+  "env": {
+    "node": true,
+    "amd": true,
+    "browser": false,
+    "es6": false
+  },
+  "rules": {
+    "no-var": 0,
+    "object-shorthand": 0,
+    "prefer-template": 0
+  }
+}
