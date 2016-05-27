@@ -1,8 +1,12 @@
 {
   "name": "ao-gulp-tasks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A base gulp config to use across projects",
   "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AO16/ao-gulp-tasks.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
