@@ -1,6 +1,6 @@
 {
   "name": "ao-gulp-tasks",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A base gulp config to use across projects",
   "main": "gulpfile.js",
   "repository": {

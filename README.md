@@ -9,9 +9,14 @@ This is a collection of tasks that I am maintaining to use accross several proje
 * [Node.js](http://nodejs.org/) (with NPM)
 
 ##Installation
-`npm install gulp --save-dev`  
+
 `npm install ao-gulp-tasks --save-dev`  
-`npm install gulp-require-tasks --save-dev`
+`npm install babel-eslint --save-dev`  
+`npm install babel-preset-es2015 --save-dev`  
+`npm install gulp --save-dev`  
+`npm install gulp-babel --save-dev`  
+`npm install gulp-require-tasks --save-dev`  
+`npm install gulp-sass --save-dev`
 
 Include gulpfile.example.js in the root of your project and remove "example" from the file name.
 
